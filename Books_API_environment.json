@@ -1,0 +1,40 @@
+{
+	"id": "367b79f8-9f6a-4060-923e-6dce30a1c137",
+	"name": "Variables Books-API",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://fakerestapi.azurewebsites.net",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "title",
+			"value": "\"Test Automation Advanced\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "title_updated",
+			"value": "\"Test Automation Advanced ALTERADO\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "description",
+			"value": "\"Book created via automated test\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "pagecount",
+			"value": "450",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-12-19T16:15:23.446Z",
+	"_postman_exported_using": "Postman/11.76.9"
+}

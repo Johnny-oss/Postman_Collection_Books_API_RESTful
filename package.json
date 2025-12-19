@@ -1,0 +1,16 @@
+{
+  "name": "booksapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   //"test:api": "newman run 'Books_API_collection.json' -e 'Books_API_environment.json' -r htmlextra"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "newman": "^6.2.1",
+    "newman-reporter-htmlextra": "^1.23.1"
+  }
+}
